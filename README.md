@@ -1,5 +1,8 @@
 # shopping-cart
 
+# See it Live
+https://shopping-cart-with-vuejs.netlify.app/
+
 ## Project setup
 ```
 npm install
